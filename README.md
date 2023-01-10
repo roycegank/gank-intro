@@ -1,1 +1,9 @@
-# gank-intro
+- Hi, I’m Royce Cornwell
+- I’m interested in language, programming and games
+- I’m currently learning programming machine learning
+- I'm originally from Kauai
+- I'm a senior in Electrical Engineering
+- I chose my major because EE is a very versatile profession that can branch into many job categories incolving technology 
+- A fun fact about me is:  I can speak Japanese and German
+- What do I want to learn from EE 205? Obtain a better understanding on programming basics and improve my problem-solving skills
+- A book or movie I'd recommend is: Interstellar
